@@ -1,0 +1,5 @@
+Link Docker Image Lab 04 - Nhóm 8:
+https://hub.docker.com/r/luuphongphan12/iot-ingestion/tags
+
+Image Tag đã push:
+luuphongphan12/iot-ingestion:v0.1.0-team-iot
